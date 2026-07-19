@@ -1,0 +1,10 @@
+pregunta:¿Por qué una plataforma tecnológica que promueve
+ participación ciudadana debe tener base de datos,
+  autenticación de usuarios y protección de información?
+
+Respuesta:Las metodologías ágiles ayudan a organizar 
+y adaptar el trabajo, la automatización ahorra
+ tiempo al realizar tareas repetitivas y Telegram
+  facilita la comunicación rápida con la comunidad.
+   Juntas, mejoran la organización, la participación
+    y la eficiencia del proceso.
